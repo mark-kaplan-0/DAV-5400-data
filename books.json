@@ -5,7 +5,7 @@
       "title": "Tanya",
       "author": "Alter Rebbe",
       "category": "Chassidus",
-      "first publication year": "1796"
+      "first publication year": "1796",
     },
 
     {
@@ -13,14 +13,14 @@
       "title": "Shulchan Aruch",
       "author": "Alter Rebbe",
       "category": "Halacha",
-      "first publication year": "1814"
+      "first publication year": "1814",
     },
     {
       "id": "3",
       "title": "Torah Ohr",
       "author": "Alter Rebbe and Tzemach Tzedek",
       "category": "Chassidus",
-      "first publication year": "1814"
+      "first publication year": "1814",
     }
   ]
 }
