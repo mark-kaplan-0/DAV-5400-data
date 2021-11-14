@@ -1,12 +1,12 @@
 {
   "books": [
     {
-      "id": "01",
+      "id": "1",
       "title": "Tanya",
       "author": "Alter Rebbe",
       "category": "Chassidus",
       "first publication year": "1796"
-    }
+    },
 
     {
       "id": "02",
@@ -14,7 +14,7 @@
       "author": "Alter Rebbe",
       "category": "Halacha",
       "first publication year": "1814"
-    }
+    },
     {
       "id": "03",
       "title": "Torah Ohr",
