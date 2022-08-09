@@ -1,0 +1,17 @@
+﻿,r2,rmse
+MLR 1 (all features),-5.03637E+14,102005621.6
+MLR 2 (20 features),0.191,6.8
+MLR 3 (5 features),0.122,7.06
+,,
+Decision Tree One (all features) - default,0.301,6.25
+Decision Tree Two (20 features) - default,0.233,6.61
+Decision Tree Two (20 features) - tuned,0.00534,7.51
+Decision Tree Three (5 features) -default,0.184,6.82
+,,
+XGBoost One (all features) - default,0.317,6.16
+XGBoost Two (20 features) - default,0.256,6.51
+XGBoost Two (20 features) - tuned,0.258,6.5
+XGBoost Three (5 features) - tuned,0.187,6.808
+,,
+SVM Model (20 features) - default,0.0174,7.47
+SVM Model (20 features) - tuned,0.219,6.69
